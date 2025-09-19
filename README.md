@@ -8,7 +8,7 @@ Die PDF-Datei enthält die Präsentation von der Konferenz als auch die Folien d
   - unter Windows muss es von [https://git-scm.com/downloads](https://git-scm.com/downloads) heruntergeladen und installiert werden
 - ein Editor wie VSCode [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
-## Kurzanleitung für CLI-Tool
+## Kurzanleitung für die Nutzung des CLI-Tools
 
 Im Terminal kann man mit folgendem Befehl ein CLI-Tool herunterladen, welches man zum Initialisieren eines Starter-Projektes nutzen kann.
 

@@ -44,7 +44,7 @@ Nachfolgend noch ein paar Anmerkungen zu Problemen, die während des Workshops a
 
 ### JS-Bibliotheken noch nicht installiert
 
-Falls man das Starter-Projekt direkt von [https://github.com/agametis/fm-starter-vite](https://github.com/agametis/fm-starter-vite) per Zip oder `git clone` heruntergeladen hat, muss nach dem Entpacken/Herunteladen der Befehl `npm install` ausgeführt werden. Dieser stellt sicher, dass alle JavaScript-Bibliotheken im Projekt lokal vorhanden sind. Mit diesem Befehl wird das Verzeichnis `node_modules` erstellt, in dem sich alle Bibliotheken befinden. Bei der Nutzung des CLI-Tools von oben entfällt dieser Schritt, weil das Tool sich darum kümmert, die JavaScript-Bibliotheken zu installieren.
+Falls man das Starter-Projekt direkt von [https://github.com/agametis/fm-starter-vite](https://github.com/agametis/fm-starter-vite) per Zip oder `git clone` heruntergeladen hat, muss nach dem Entpacken/Herunteladen der Befehl `npm install` im Installationsverzeichnis ausgeführt werden. Dieser stellt sicher, dass alle JavaScript-Bibliotheken im Projekt lokal vorhanden sind. Mit diesem Befehl wird das Verzeichnis `node_modules` erstellt, in dem sich alle Bibliotheken befinden. Bei der Nutzung des CLI-Tools von oben entfällt dieser Schritt, weil das Tool sich darum kümmert, die JavaScript-Bibliotheken zu installieren.
 
 ### Port des lokalen Webservers ist nicht 5173
 

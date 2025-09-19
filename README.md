@@ -1,6 +1,6 @@
 Die PDF-Datei enthält die Präsentation von der Konferenz als auch die Folien des Workshops. Die Folien enthalten alle Informationen darüber, wie man das Starter-Projekt zum Entwickeln von JavaScript-Projekten für FileMaker benutzen kann. Im Folgenden eine Kurzanleitung, wie man vorgehen kann.
 
-## Voraussetzung
+## Voraussetzungen
 
 - installiertes Node.js [https://nodejs.org/](https://nodejs.org/)
 - installiertes git-System

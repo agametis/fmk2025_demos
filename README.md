@@ -4,7 +4,7 @@ Die PDF-Datei enthält die Präsentation von der Konferenz als auch die Folien d
 
 - installiertes Node.js [https://nodejs.org/](https://nodejs.org/)
 - installiertes git-System
-  - auf MacOS ist es bereits vorhanden
+  - unter MacOS ist es bereits vorhanden
   - unter Windows muss es von [https://git-scm.com/downloads](https://git-scm.com/downloads) heruntergeladen und installiert werden
 - ein Editor wie VSCode [https://code.visualstudio.com/](https://code.visualstudio.com/)
 
